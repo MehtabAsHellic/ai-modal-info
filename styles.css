@@ -1,0 +1,96 @@
+/* Old-School/Wikipedia Style */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f9f9f9;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #fff;
+  padding: 20px;
+}
+
+header h1 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: right; /* Aligning the navigation to the right */
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  font-size: 18px; /* Increase the font size for better visibility */
+}
+
+nav ul li a:hover {
+  color: #666; /* Changing the color on hover */
+}
+
+main {
+  background-color: #fff;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.model {
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.model h4 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.model p {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+footer ul {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+footer ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+footer ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer ul li a:hover {
+  text-decoration: underline;
+}
